@@ -1,0 +1,15 @@
+<2 , Accepted✅>
+<24 , Accepted✅>
+<38 , Accepted✅>
+<88 , Accepted✅>
+<100 , Accepted✅>
+<g , Not a Number>
+<e , Not a Number>
+
+<1 , odd Number>
+<13 , odd Number>
+<15 , odd Number>
+<25 , odd Number>
+<101 , odd Number>
+<? , Not a Number>
+<! , Not a Number>

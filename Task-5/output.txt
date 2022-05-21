@@ -1,0 +1,4 @@
+a+b*b+c The statemnet has either extra ( paranthesis or a missing ) paranthesis
+a*b+c Balanced
+a/c*b+b--c The statemnet has either extra ) paranthesis or a missing ( paranthesis
+a+b-c*d-e Balanced
